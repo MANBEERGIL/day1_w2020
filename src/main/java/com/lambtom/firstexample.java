@@ -26,6 +26,9 @@ public class firstexample {
         double f2 = 1000.40D;
         System.out.println("F1 =" + f1);
         System.out.println("F2 =" + f2);
+        String s1 ="welcome";
+String s1 = String.format()
+
 
 
     }
